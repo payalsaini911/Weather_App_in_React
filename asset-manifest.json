@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Weather_App_in_React/static/css/main.3ca88104.chunk.css",
-    "main.js": "/Weather_App_in_React/static/js/main.65a82c16.chunk.js",
-    "main.js.map": "/Weather_App_in_React/static/js/main.65a82c16.chunk.js.map",
-    "runtime-main.js": "/Weather_App_in_React/static/js/runtime-main.3c833ae5.js",
-    "runtime-main.js.map": "/Weather_App_in_React/static/js/runtime-main.3c833ae5.js.map",
-    "static/js/2.75908c61.chunk.js": "/Weather_App_in_React/static/js/2.75908c61.chunk.js",
-    "static/js/2.75908c61.chunk.js.map": "/Weather_App_in_React/static/js/2.75908c61.chunk.js.map",
-    "index.html": "/Weather_App_in_React/index.html",
-    "static/css/main.3ca88104.chunk.css.map": "/Weather_App_in_React/static/css/main.3ca88104.chunk.css.map",
-    "static/js/2.75908c61.chunk.js.LICENSE.txt": "/Weather_App_in_React/static/js/2.75908c61.chunk.js.LICENSE.txt"
+    "main.css": "/payalsaini911/weatherapp.github.io/static/css/main.3ca88104.chunk.css",
+    "main.js": "/payalsaini911/weatherapp.github.io/static/js/main.65a82c16.chunk.js",
+    "main.js.map": "/payalsaini911/weatherapp.github.io/static/js/main.65a82c16.chunk.js.map",
+    "runtime-main.js": "/payalsaini911/weatherapp.github.io/static/js/runtime-main.40a7be60.js",
+    "runtime-main.js.map": "/payalsaini911/weatherapp.github.io/static/js/runtime-main.40a7be60.js.map",
+    "static/js/2.75908c61.chunk.js": "/payalsaini911/weatherapp.github.io/static/js/2.75908c61.chunk.js",
+    "static/js/2.75908c61.chunk.js.map": "/payalsaini911/weatherapp.github.io/static/js/2.75908c61.chunk.js.map",
+    "index.html": "/payalsaini911/weatherapp.github.io/index.html",
+    "static/css/main.3ca88104.chunk.css.map": "/payalsaini911/weatherapp.github.io/static/css/main.3ca88104.chunk.css.map",
+    "static/js/2.75908c61.chunk.js.LICENSE.txt": "/payalsaini911/weatherapp.github.io/static/js/2.75908c61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c833ae5.js",
+    "static/js/runtime-main.40a7be60.js",
     "static/js/2.75908c61.chunk.js",
     "static/css/main.3ca88104.chunk.css",
     "static/js/main.65a82c16.chunk.js"
